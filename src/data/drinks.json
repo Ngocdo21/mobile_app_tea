@@ -1,0 +1,247 @@
+[
+    {
+        "id": 0,
+        "name": "Trà Lipton",
+        "image": "https://tandoorvietnam.com/wp-content/uploads/2020/06/lipton-Tea.jpg",
+        "price": 40000,
+        "owner": "Tocotoco",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+        
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Tuyển chọn từ 100% lá trà non, trải qua quy trình Hấp kết hợp Sấy để bảo toàn hương vị tự nhiên. Là giải pháp thanh sạch cơ thể tiện lợi cho người trẻ hiện đại"
+    },
+    {
+        "id": 1,
+        "name": "Matcha",
+        "image": "https://www.napoli.vn/Document/Images/matcha_ice_blended_master.jpg",
+        "price": 30000,
+        "owner": "Tocotoco",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+            
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Matcha là bột được nghiền từ búp non của cây trà xanh Tencha – giống trà đặc trưng của Nhật Bản."
+    },
+    {
+        "id": 2,
+        "name": "Trà Sữa Dâu",
+        "image": "https://bizweb.dktcdn.net/100/314/104/articles/fff.png?v=1599899697257",
+        "price": 30000,
+        "owner": "Ding Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+        
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Sự ngọt ngào thơm ngon đi kèm màu hồng bắt mắt của trà sữa dâu chắc chắn sẽ mê hoặc mọi cô nàng mê trà sữa đấy. "
+    },
+    {
+        "id": 3,
+        "name": "Trà Sữa Bạc Hà",
+        "image": "https://jarvis.vn/wp-content/uploads/2019/05/cach-pha-che-tra-sua-bac-ha.jpg",
+        "price": 30000,
+        "owner": "Fly Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+            
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Trà sữa bạc hà là một trong số đó, thậm chí đồ uống này còn xuất hiện trong menu của hầu hết các thương hiệu trà sữa nổi tiếng và được khách hàng gọi thường xuyên. "
+    },
+    {
+        "id": 4,
+        "name": "Nước Chanh",
+        "image": "https://vinmec-prod.s3.amazonaws.com/images/20210314_090326_726577_nuoc-chanh-dieu-tri-t.max-800x800.jpg",
+        "price": 30000,
+        "owner": "Fly Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+    
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Nước chanh là một loại nước giải khát quen thuộc đối với mọi người. Ngoài những công dụng có lợi cho sức khỏe thì nước chanh cũng có những mặt hạn chế ảnh hưởng đến cơ thể mà chúng ta hay hiểu lầm và mắc phải."
+    },
+    {
+        "id": 5,
+        "name": "Trà Sữa Truyền Thống Royal",
+        "image": "https://cdn-www.vinid.net/2020/04/cac69388-20200331_appvinid_bannerweb_royalteapre.jpg",
+        "price": 39000,
+        "owner": "Royal Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+            
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+		"topping": [
+			"Kem Cheese",
+			"Trân Châu Trắng",
+			"Trân Châu Đen",
+			"Oreo",
+			"Thạch lô hội",
+			"Kem Macchiato",
+			"Pudding"
+		],
+        "description": "Thức uống là sự kết hợp hoàn hảo của vị chát nhẹ, thơm mát của trà quyện với bột ngậy và sữa đặc. Nếu ai yêu thích hương vị ngọt ngào thì không thể bỏ lỡ món trà sữa trân châu truyền thống này nhé."
+    },
+    {
+        "id": 6,
+        "name": "Trà Sữa Chân Trâu Oreo Kem Trứng",
+        "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/VNITE20200109063640042939/photo/1543806686284327783_0_5703817a3d8b4fbfa57eb6bbd2f8187d.jpg",
+        "price": 49000,
+        "owner": "Royal Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+    
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+		"topping": [
+			"Kem Cheese",
+			"Trân Châu Trắng",
+			"Trân Châu Đen",
+			"Oreo",
+			"Thạch lô hội",
+			"Kem Macchiato",
+			"Pudding"
+		],
+        "description": "Ngoài hương vị đậm đà, thơm béo hấp dẫn, người uống còn được mãn nhãn với lớp Trân trâu ở đáy cốc, lớp kem trứng phủ quanh viền cốc, lớp kem Cheese trắng nõn tầng trên và cuối cùng là lớp bột Oreo tuyệt hảo."
+    },
+    {
+        "id": 7,
+        "name": "Trà Olong Royal Kem Cheese",
+        "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/VNGFVN0000091d1545582081757241956/photo/5_edceb17ff3a44a3393e204f09d1625d0_1546192250551957908.jpg",
+        "price": 34000,
+        "owner": "Royal Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+            
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+		"topping": [
+			"Kem Cheese",
+			"Trân Châu Trắng",
+			"Trân Châu Đen",
+			"Oreo",
+			"Thạch lô hội",
+			"Kem Macchiato",
+			"Pudding"
+		],
+        "description": "Cũng được nấu từ Trà tươi đến 95 độ C thì đưa vào Ủ, những ai thích vị thanh mát ắt không thể bỏ qua Trà Ô Long này. "
+    },
+    {
+        "id": 8,
+        "name": "Sữa Tươi Chân Trâu Đường Đen ",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UBpQcY0jTaE1aKmoF4OfaHpTTbBKply6_w&usqp=CAU",
+        "price": 30000,
+        "owner": "Royal Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+        
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+		"topping": [
+			"Kem Cheese",
+			"Trân Châu Trắng",
+			"Trân Châu Đen",
+			"Oreo",
+			"Thạch lô hội",
+			"Kem Macchiato",
+			"Pudding"
+		],
+        "description": "Roуaltea cũng bắt kịp хu hướng ѕữa tươi trân châu đường đen đang hot nhất mùa hè nàу. Món nàу tại Roуaltea ѕẽ thích hợp ᴠới những ai thích độ béo ᴠừa phải ᴠì có độ thanh ngọt tự nhiên. "
+    },
+    {
+        "id": 9,
+        "name": "Matcha Chân Trâu Đường Đen",
+        "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/VNITE20210423095224054177/photo/1543806664982940356_0_17cb0679b14c48e8aee1667aa97d589b.jpg",
+        "price": 50000,
+        "owner": "Royal Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+    
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+		"topping": [
+			"Kem Cheese",
+			"Trân Châu Trắng",
+			"Trân Châu Đen",
+			"Oreo",
+			"Thạch lô hội",
+			"Kem Macchiato",
+			"Pudding"
+		],
+        "description": "Đặc biệt, bột trà Matcha hảo hạng được kết hợp với bột sữa gầy nên càng đẩy mạnh khả năng làm trẻ hóa làn da và chống nhăn, mang đến cho bạn một làn da tươi trẻ từ bên trong, căng mịn bên ngoài."
+    }
+]

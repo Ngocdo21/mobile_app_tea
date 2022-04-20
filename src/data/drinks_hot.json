@@ -1,0 +1,91 @@
+[
+    {
+        "id": 0,
+        "name": "Trà Sữa Dâu",
+        "image": "https://bizweb.dktcdn.net/100/314/104/articles/fff.png?v=1599899697257",
+        "price": 30000,
+        "owner": "Ding Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+        
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Sự ngọt ngào thơm ngon đi kèm màu hồng bắt mắt của trà sữa dâu chắc chắn sẽ mê hoặc mọi cô nàng mê trà sữa đấy. "
+    },
+    {
+        "id": 1,
+        "name": "Trà Sữa Bạc Hà",
+        "image": "https://jarvis.vn/wp-content/uploads/2019/05/cach-pha-che-tra-sua-bac-ha.jpg",
+        "price": 30000,
+        "owner": "Fly Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+            
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Trà sữa bạc hà là một trong số đó, thậm chí đồ uống này còn xuất hiện trong menu của hầu hết các thương hiệu trà sữa nổi tiếng và được khách hàng gọi thường xuyên. "
+    },
+    {
+        "id": 2,
+        "name": "Nước Chanh",
+        "image": "https://vinmec-prod.s3.amazonaws.com/images/20210314_090326_726577_nuoc-chanh-dieu-tri-t.max-800x800.jpg",
+        "price": 30000,
+        "owner": "Fly Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+    
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Nước chanh là một loại nước giải khát quen thuộc đối với mọi người. Ngoài những công dụng có lợi cho sức khỏe thì nước chanh cũng có những mặt hạn chế ảnh hưởng đến cơ thể mà chúng ta hay hiểu lầm và mắc phải."
+    },
+    {
+        "id": 3,
+        "name": "Trà Sữa Truyền Thống Royal",
+        "image": "https://cdn-www.vinid.net/2020/04/cac69388-20200331_appvinid_bannerweb_royalteapre.jpg",
+        "price": 39000,
+        "owner": "Royal Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+            
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+		"topping": [
+			"Kem Cheese",
+			"Trân Châu Trắng",
+			"Trân Châu Đen",
+			"Oreo",
+			"Thạch lô hội",
+			"Kem Macchiato",
+			"Pudding"
+		],
+        "description": "Thức uống là sự kết hợp hoàn hảo của vị chát nhẹ, thơm mát của trà quyện với bột ngậy và sữa đặc. Nếu ai yêu thích hương vị ngọt ngào thì không thể bỏ lỡ món trà sữa trân châu truyền thống này nhé."
+    }
+]
